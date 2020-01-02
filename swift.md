@@ -312,3 +312,199 @@ let numbers = [5, 2, 1, 6, 7]
 let sortedNumbers = numbers.sorted {$0 < $1}
 print(sortedNumbers) // [1, 2, 5, 6, 7]
 ```
+
+#### Class
+
+```swift
+class Person {
+    let name: String
+    var age: Int
+    var address: String?
+    
+    init(name:String, age:Int, address: String?) {
+        self.name = name
+        self.age = age
+        self.address = address
+    }
+    
+    deinit {
+        print("Clean UP")
+    }
+}
+
+var person1:Person? = Person(name: "Mark", age: 35, address: "US")
+if let name = person1?.name {
+    print(name)
+}
+if let age = person1?.age {
+    print(age)
+}
+if let address = person1?.address {
+    print(address)
+}
+
+person1 = nil
+
+```
+- Every property needs a value assigned. Either when it is declared or in the initializer.
+
+- `deinit` is used to cleanup before the object deallocated
+
+#### Subclass
+
+```swift
+class Person {
+    let name: String
+    var age: Int
+    var address: String?
+    
+    init(name:String, age:Int, address: String?) {
+        self.name = name
+        self.age = age
+        self.address = address
+    }
+    
+    deinit {
+        print("Clean UP")
+    }
+}
+
+class SpecialPerson : Person {
+    let special: Bool
+    
+    init(name: String, age: Int, address: String?, isSpecial: Bool) {
+        self.special = isSpecial
+        super.init(name: name, age: age, address: address)
+    }
+    
+    func showOutput() {
+        print(name)
+        print(age)
+        if let address = self.address {
+            print(address)
+        }
+        print(special ? "Special" : "Normal")
+    }
+}
+
+let sp1 = SpecialPerson(name: "Mark", age: 35, address: nil, isSpecial: true)
+sp1.showOutput()
+```
+- In subclass initializer, initialize the subclass properties first then call superclass initializer
+
+- To override superclass methods, use `override` keyword in front of the methods
+
+> Getter and Setter for computed properties
+
+```swift
+class Person {
+    let name: String
+    var age: Int
+    var address: String?
+    
+    init(name:String, age:Int, address: String?) {
+        self.name = name
+        self.age = age
+        self.address = address
+    }
+    
+    // Getter
+    var isAdult: Bool {
+        get {
+            return age >= 18 ? true : false
+        }
+        set {
+            // do nothing in this case
+        }
+    }
+}
+
+let p1 = Person(name: "Mark", age: 35, address: nil)
+if (p1.isAdult) {
+    print("\(p1.name) is an adult!")
+}
+```
+
+- `willSet` and `didSet` are used to run code before and after setting a new value.
+
+
+#### Enumeration
+
+You can use `enum` to create enumeration. Like classes enumeration can have named types and methods.
+
+```swift
+enum GameResult: Int {
+    case win = 1 // explicit value otherwise start from 0
+    case tie // 2
+    case loss // 3
+    case unknown // 4
+    
+    func showResult() {
+        switch self {
+        case .win:
+            print("Win")
+        case .tie:
+            print("Tie")
+        case .loss:
+            print("Loss")
+        default:
+            print("Unknown")
+        }
+    }
+}
+
+let gameResult = GameResult.tie
+gameResult.showResult()
+
+```
+
+- Enumeration can use to associate value with it when the instances are created. 
+
+```swift
+enum Price {
+    case good(String, Double)
+    case bad(String)
+}
+
+let priceReceived = Price.good("Very good price", 23.33)
+let priceReceived2 = Price.bad("Very bad price")
+
+switch priceReceived {
+case let .good(msg, val):
+    print("\(msg): \(val)")
+case let .bad(msg):
+    print("\(msg)")
+}
+```
+
+#### Structure
+
+Same like class. Can contain properties, initializer and methods. 
+
+> The Difference between class and structure is, classes are passed by reference and structure are passed by copied.
+
+```swift
+struct Person {
+    let name: String
+    var age: Int
+    var address: String?
+    
+    init(name: String, age: Int, address: String?) {
+        self.name = name
+        self.age = age
+        self.address = address
+    }
+    
+    func showDisplay() {
+        print(name)
+        print(age)
+        if let address = self.address {
+            print(address)
+        }
+    }
+}
+
+let p1 = Person(name: "Mark", age: 35, address: nil)
+p1.showDisplay()
+```
+
