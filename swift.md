@@ -508,3 +508,83 @@ let p1 = Person(name: "Mark", age: 35, address: nil)
 p1.showDisplay()
 ```
 
+#### Protocol
+
+```swift
+protocol NumDemoProtocol {
+    var num: Int { get set }
+    mutating func adjust()
+}
+
+class Num1 : NumDemoProtocol {
+    var num: Int = 100
+    func adjust() {
+        num = num + 10
+    }
+}
+
+let n1 = Num1()
+n1.adjust()
+print(n1.num)
+
+struct Num2: NumDemoProtocol {
+    var num: Int = 100
+    mutating func adjust() {
+        num = num + 20
+    }
+}
+
+var n2 = Num2()
+n2.adjust()
+print(n2.num)
+```
+
+- Class, Structure and Enumeration can confront a protocol
+- `mutating` is required in front of function if it modifies the structure.
+
+#### Extension
+
+```swift
+protocol NumDemoProtocol {
+    var num: Int { get set }
+    mutating func adjust()
+}
+
+extension Int: NumDemoProtocol {
+    var num: Int {
+        get {
+            return self
+        }
+        set {
+            self = newValue
+        }
+    }
+    
+    mutating func adjust() {
+        self += 10
+    }
+}
+
+var n: Int = 100
+n.adjust()
+print(n)
+```
+
+#### Generics
+
+> Write a name inside angle brackets to make a generic function or type
+
+```swift
+func makeArray<Item>(repeating item: Item, times: Int) -> [Item] {
+    var result = [Item]()
+    
+    for _ in 0..<times {
+        result.append(item)
+    }
+    
+    return result
+}
+
+print(makeArray(repeating: "Life", times: 3))
+print(makeArray(repeating: 5, times: 2))
+```
