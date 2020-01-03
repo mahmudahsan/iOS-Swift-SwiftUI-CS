@@ -2,8 +2,8 @@
 
 1. [Quick Overview](#quick-overview)
 2. [Basics](#basics)
-    - [Tuple](#tuple)
-    - [Optional](#optional)
+    - [Tuple](#tuples)
+    - [Optional](#optionals)
 
 ## Quick Overview
 
@@ -666,7 +666,7 @@ let a: HowInt = 5
 Comment */
 ```
 
-#### Tuple
+#### Tuples
 
 To combine multiple values into a single compound value use tuple.
 
@@ -688,7 +688,7 @@ print(bTuple.statusCode)
 print(bTuple.status)
 ```
 
-#### Optional
+#### Optionals
 An optional either has a value or absent of value (nil).
 
 - If a variable is declared as optioanl by providing (?), an automatic `nil` is assigned to it
