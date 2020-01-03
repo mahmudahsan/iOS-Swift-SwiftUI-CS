@@ -1,5 +1,7 @@
 # Swift Language
 
+1. [Basics](#basics)
+
 ## Basics
 
 Swift doesn't need main function as code written in global scope is used as the entry point.
