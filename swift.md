@@ -2,8 +2,8 @@
 
 1. [Quick Overview](#quick-overview)
 2. [Basics](#basics)
-  - [Tuple](#tuple)
-  - [Optional](#optional)
+    - [Tuple](#tuple)
+    - [Optional](#optional)
 
 ## Quick Overview
 
