@@ -1,8 +1,11 @@
 # Swift Language
 
-1. [Basics](#basics)
+1. [Quick Overview](#quick-overview)
+2. [Basics](#basics)
+  - [Tuple](#tuple)
+  - [Optional](#optional)
 
-## Basics
+## Quick Overview
 
 Swift doesn't need main function as code written in global scope is used as the entry point.
 
@@ -590,3 +593,151 @@ func makeArray<Item>(repeating item: Item, times: Int) -> [Item] {
 print(makeArray(repeating: "Life", times: 3))
 print(makeArray(repeating: 5, times: 2))
 ```
+
+### Basics
+
+#### Fundamental Types
+
+- Int 
+- Double
+- Float
+- String
+- Bool [ true / false ]
+
+##### Integer
+
+> Best practice to use `Int` for all cases.
+
+```swift
+let minValue = UInt8.min
+let maxValue = UInt8.max
+
+// Integer Literals
+let decimalInt = 17
+let binaryInt = 0b10001
+let octalInt = 0o21
+let hexaInt = 0x11
+
+// Easier to read
+let million = 1_000_000
+
+```
+
+##### Double
+
+> `Double` represents 64 bit floating point number.
+> `Float` represents 32 bit floating point number.
+
+##### Type Conversion
+Swift will not automatically convert between mixed types.
+So use `Int(value)` or `Double(value)` to convert types
+
+```swift
+let aInt = 5
+let aDouble = 4.5
+let sum = Double(aInt) + aDouble
+```
+
+##### Type Alias
+
+```swift
+typealias HowInt = Int 
+let a: HowInt = 5
+
+```
+
+#### Collection
+
+- Array
+- Set
+- Dictionary
+
+#### Other
+
+- Tuple
+- Optional Types
+
+#### Comments
+
+```swift
+// single line comment
+
+/* Multiline
+Comment */
+```
+
+#### Tuple
+
+To combine multiple values into a single compound value use tuple.
+
+```swift
+let aTuple = (404, "Not Found")
+
+// Decompose
+let (statusCode, status) = aTuple
+print(statusCode)
+print(status)
+
+// OR accessing
+print(aTuple.0)
+print(aTuple.1)
+
+// Named Tuple
+let bTuple = (statusCode: 404, status: "Not Found")
+print(bTuple.statusCode)
+print(bTuple.status)
+```
+
+#### Optional
+An optional either has a value or absent of value (nil).
+
+- If a variable is declared as optioanl by providing (?), an automatic `nil` is assigned to it
+
+> There are 3 ways to unwrap optionals
+
+1. Optional Binding `if let`
+2. Nil Coalescing Operator `??`
+3. Force unwrap `!`
+
+```swift
+var aNum: Int?
+
+aNum = 100
+
+
+// Optional Binding
+if let aNum = aNum {
+    print(aNum)
+}
+
+// Nil Coalescing Operator ??
+aNum = nil
+print(aNum ?? 0)
+
+// Force unwrap !
+// When you're sure the optional must contain a value
+aNum = 1000
+print(aNum!)
+
+```
+
+##### Implicitly Unwrap Optional
+
+> If it is certain that an optional always have a value after the value is first set, in that case checking optional every time, it is better to declare that optional as implicitly unwrap optional.
+
+**This part will not work**
+
+```swift
+var name:String? = "Jack"
+let newName:String = name  //need to unwrap
+newName
+```
+
+**Implicitly unwrap optional work no need unwrap logic**
+
+```swift
+var name:String! = "Jack"
+let newName:String = name
+newName
+```
+
