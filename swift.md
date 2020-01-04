@@ -747,3 +747,8 @@ newName
 - `as?` is used to optional downcasting
 - `as` is used to casting from subclass to superclass
 
+### Super Type
+
+- `Any` for struct or class any time
+- `AnyObject` only for class type
+- `NSObject` for object inherited by `NSObject` class
