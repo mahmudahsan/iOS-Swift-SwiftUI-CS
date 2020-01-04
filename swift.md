@@ -741,3 +741,9 @@ let newName:String = name
 newName
 ```
 
+### Type Casting
+
+- `as!` is used to force downcasting
+- `as?` is used to optional downcasting
+- `as` is used to casting from subclass to superclass
+
