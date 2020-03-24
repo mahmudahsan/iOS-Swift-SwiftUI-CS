@@ -43,3 +43,4 @@
 #### UI
 - [SwiftUI Sliders](https://github.com/spacenation/swiftui-sliders)
 - [Lazy Pop SwiftUI](https://github.com/joehinkle11/Lazy-Pop-SwiftUI)
+- [Video Card](https://github.com/jboullianne/VideoCard)
