@@ -16,9 +16,11 @@
     </a>
 </p>
 
-# iOS | Swift
+# iOS | Swift | SwiftUI
 
 > All my open source iOS projects and swift notes are published in this repo.
+> Since 2020, I am a big fan of SwiftUI. And if I create a new project
+> or a new module of existing project I am using SwiftUI.
 
 1. [My Swift Notes](swift.md)
 
