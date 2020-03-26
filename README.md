@@ -13,7 +13,10 @@
 
 ### My SwiftUI Reusable Components
 - [Radio Button and Group](https://thinkdiff.net/ios/how-to-create-radio-button-and-group-in-swiftui/)
-- [Checkbox]()
+- [Checkbox](https://thinkdiff.net/ios/how-to-create-checkbox-in-swiftui/)
+- [Gradient Text](https://thinkdiff.net/ios/swiftui-how-to-add-gradient-on-text/)
+- [Manual Progress Bar](https://thinkdiff.net/ios/swiftui-how-to-create-a-manual-progress-bar/)
+- [Device Size in Runtime](https://thinkdiff.net/ios/swiftui-how-to-get-device-size/)
 
 ### My iOS Apps 
 
