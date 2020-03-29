@@ -70,3 +70,5 @@
 - [SwiftUI Sliders](https://github.com/spacenation/swiftui-sliders)
 - [Lazy Pop SwiftUI](https://github.com/joehinkle11/Lazy-Pop-SwiftUI)
 - [Video Card](https://github.com/jboullianne/VideoCard)
+- [10Clock](https://github.com/joedaniels29/10Clock)
+- [KUIPopOver](https://github.com/Kofktu/KUIPopOver)
