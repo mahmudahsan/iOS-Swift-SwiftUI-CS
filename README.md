@@ -56,7 +56,7 @@
 #### Grid
 - [QGrid - Similar Like Collection View](https://github.com/Q-Mobile/QGrid)
 - [SwiftUI Grid Layout](https://github.com/spacenation/swiftui-grid)
-- [WaterfallGrid Grid Layout](https://github.com/paololeonardi/WaterfallGrid)
+- [WaterfallGrid Grid Layout](https://github.com/mahmudahsan/WaterfallGrid)
 - [ASCollectionView](https://github.com/apptekstudios/ASCollectionView)
 
 #### Charts
@@ -67,7 +67,7 @@
 - [ConcentricOnboarding - Onboarding Flow](https://github.com/exyte/ConcentricOnboarding)
 
 #### UI
-- [SwiftUI Sliders](https://github.com/spacenation/swiftui-sliders)
+- [SwiftUI Sliders](https://github.com/mahmudahsan/swiftui-sliders)
 - [Lazy Pop SwiftUI](https://github.com/joehinkle11/Lazy-Pop-SwiftUI)
 - [Video Card](https://github.com/jboullianne/VideoCard)
 - [10Clock](https://github.com/joedaniels29/10Clock)
