@@ -72,3 +72,6 @@
 - [Video Card](https://github.com/jboullianne/VideoCard)
 - [10Clock](https://github.com/joedaniels29/10Clock)
 - [KUIPopOver](https://github.com/Kofktu/KUIPopOver)
+
+#### Notification
+- [NotificationBanner](https://github.com/Daltron/NotificationBanner)
