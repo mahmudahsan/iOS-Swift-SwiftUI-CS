@@ -52,13 +52,6 @@ struct TabView1: View {
             }
             .isDetailLink(false)
         }
-        .onReceive(self.appState.$moveToDashboard) { moveToDashboard in
-            if moveToDashboard {
-                self.isView1Active = false
-                self.appState.moveToDashboard = false
-                print("Move to Dashboard")
-            }
-        }
     }
 }
 
@@ -97,7 +90,6 @@ struct View2: View {
                 .font(.headline)
             Button(action: {
                 // FIXME:- add move to dashboard functionality
-                // self.appState.moveToDashboard = true
                 self.appState.reloadDashboard()
             }) {
                 Text("Move to Dashboard")
