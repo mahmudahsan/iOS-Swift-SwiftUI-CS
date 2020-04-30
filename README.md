@@ -55,6 +55,9 @@
 - [Swift Programming Language Property Observer with Caution](https://thinkdiff.net/ios/swift-programming-language-property-observer-caution/)
 - [iPhone X and other iOS device detection by Swift and Objective-C](https://thinkdiff.net/mobile/iphone-x-and-other-ios-device-detection-by-swift-and-objective-c/)
 
+### More on Swift / SwiftUI Reference
+- [Swift Documentation](https://sarunw.com/posts/swift-documentation/)
+
 ### 3rd Party Libraries
 #### Grid
 - [QGrid - Similar Like Collection View](https://github.com/Q-Mobile/QGrid)
