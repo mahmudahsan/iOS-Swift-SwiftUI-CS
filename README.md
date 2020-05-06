@@ -80,5 +80,8 @@
 - [KUIPopOver](https://github.com/Kofktu/KUIPopOver)
 - [Custom Alert](https://github.com/krishnads/KCustomAlert)
 
+#### Image
+- [Gif Support: SDWebImageSwiftUI](https://sdwebimage.github.io/SDWebImageSwiftUI/)
+
 #### Notification
 - [NotificationBanner](https://github.com/Daltron/NotificationBanner)
