@@ -79,6 +79,7 @@
 - [10Clock](https://github.com/joedaniels29/10Clock)
 - [KUIPopOver](https://github.com/Kofktu/KUIPopOver)
 - [Custom Alert](https://github.com/krishnads/KCustomAlert)
+- [URLImage](https://github.com/dmytro-anokhin/url-image)
 
 #### Image
 - [Gif Support: SDWebImageSwiftUI](https://sdwebimage.github.io/SDWebImageSwiftUI/)
