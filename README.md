@@ -89,3 +89,7 @@
 
 ### Other Articles
 - [Using Multiple Firebase Environments in iOS](https://medium.com/rocket-fuel/using-multiple-firebase-environments-in-ios-12b204cfa6c0)
+
+### Design Resources
+- [Dark to Lighten Color](https://pinetools.com/lighten-color)
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
