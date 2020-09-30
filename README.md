@@ -31,13 +31,6 @@
 3. [SimpleStoreUI](https://github.com/mahmudahsan/SimpleStoreUI)
 4. [GAdsManager](https://github.com/mahmudahsan/GAdsManager)
 
-### My SwiftUI Reusable Components
-- [Radio Button and Group](https://thinkdiff.net/ios/how-to-create-radio-button-and-group-in-swiftui/)
-- [Checkbox](https://thinkdiff.net/ios/how-to-create-checkbox-in-swiftui/)
-- [Gradient Text](https://thinkdiff.net/ios/swiftui-how-to-add-gradient-on-text/)
-- [Manual Progress Bar](https://thinkdiff.net/ios/swiftui-how-to-create-a-manual-progress-bar/)
-- [Device Size in Runtime](https://thinkdiff.net/ios/swiftui-how-to-get-device-size/)
-
 ### SwiftUI Tutorial
 - [How to pop to root view](https://thinkdiff.net/ios/swiftui-how-to-pop-to-root-view/)
 
@@ -54,6 +47,7 @@
 - [Swift Error Handling Best Practices](https://thinkdiff.net/ios/swift-error-handling-best-practices-example-tutorial/)
 - [Swift Programming Language Property Observer with Caution](https://thinkdiff.net/ios/swift-programming-language-property-observer-caution/)
 - [iPhone X and other iOS device detection by Swift and Objective-C](https://thinkdiff.net/mobile/iphone-x-and-other-ios-device-detection-by-swift-and-objective-c/)
+- [Device Size in Runtime](https://thinkdiff.net/ios/swiftui-how-to-get-device-size/)
 
 ### My SwiftUI Tutorials
 - [How to Create a Button With Capsule Shape](https://thinkdiff.net/ios/swiftui-how-to-create-a-button-with-capsule-shape/)
@@ -61,6 +55,8 @@
 - [How to Add Gradient on Text in SwiftUI](https://medium.com/@mahmudahsan/swiftui-how-to-add-gradient-on-text-23f2d14b0476)
 - [How to Create Checkbox in SwiftUI](https://medium.com/@mahmudahsan/how-to-create-checkbox-in-swiftui-ad08e285ab3d)
 - [How to Create Radio Button and Group in SwiftUI](https://medium.com/@mahmudahsan/how-to-create-radio-button-and-group-in-swiftui-46b34e0ba69a)
+- [Manual Progress Bar](https://thinkdiff.net/ios/swiftui-how-to-create-a-manual-progress-bar/)
+- [SwiftUI: How to Create Gradients](https://thinkdiff.net/ios/swiftui-how-to-create-gradients/)
 
 ### More on Swift / SwiftUI Reference
 - [Swift Documentation](https://sarunw.com/posts/swift-documentation/)
