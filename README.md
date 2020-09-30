@@ -47,13 +47,20 @@
 
 ### My Swift / iOS Tutorials
 
-- [iOS Concurrency Tutorial by GCD and Operations Brush Up](https://thinkdiff.net/mobile/ios-concurrency-using-gcd-and-operations-using-swift-brush-up/)
+- [How to Use iOS Concurrency Using GCD And Operation](https://medium.com/@mahmudahsan/ios-concurrency-using-gcd-and-operations-using-swift-brush-up-5adad60be440)
 - [iOS Development Brush Up by Swift and Objective C Part](https://thinkdiff.net/mobile/ios-development-knowledge-brush-up-10-10-part-1/)
 - [iOS Development Brush Up: Swift Obj-C Part 2](https://thinkdiff.net/mobile/ios-development-knowledge-brush-up-10-10-part-2/)
 - [How to Use Google Admob in iOS Apps using GadsManager](https://thinkdiff.net/ios/how-to-google-admob-in-ios-using-gadsmanager/)
 - [Swift Error Handling Best Practices](https://thinkdiff.net/ios/swift-error-handling-best-practices-example-tutorial/)
 - [Swift Programming Language Property Observer with Caution](https://thinkdiff.net/ios/swift-programming-language-property-observer-caution/)
 - [iPhone X and other iOS device detection by Swift and Objective-C](https://thinkdiff.net/mobile/iphone-x-and-other-ios-device-detection-by-swift-and-objective-c/)
+
+### My SwiftUI Tutorials
+- [How to Create a Button With Capsule Shape](https://thinkdiff.net/ios/swiftui-how-to-create-a-button-with-capsule-shape/)
+- [How to Programmatically Navigate in SwiftUI](https://medium.com/@mahmudahsan/how-to-programmatically-navigate-in-swiftui-387b44254bc6)
+- [How to Add Gradient on Text in SwiftUI](https://medium.com/@mahmudahsan/swiftui-how-to-add-gradient-on-text-23f2d14b0476)
+- [How to Create Checkbox in SwiftUI](https://medium.com/@mahmudahsan/how-to-create-checkbox-in-swiftui-ad08e285ab3d)
+- [How to Create Radio Button and Group in SwiftUI](https://medium.com/@mahmudahsan/how-to-create-radio-button-and-group-in-swiftui-46b34e0ba69a)
 
 ### More on Swift / SwiftUI Reference
 - [Swift Documentation](https://sarunw.com/posts/swift-documentation/)
