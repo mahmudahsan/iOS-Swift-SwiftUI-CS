@@ -57,6 +57,7 @@
 - [How to Create Radio Button and Group in SwiftUI](https://medium.com/@mahmudahsan/how-to-create-radio-button-and-group-in-swiftui-46b34e0ba69a)
 - [Manual Progress Bar](https://thinkdiff.net/ios/swiftui-how-to-create-a-manual-progress-bar/)
 - [SwiftUI: How to Create Gradients](https://medium.com/@mahmudahsan/how-to-create-gradients-e5cdf60d05d9)
+- [How to Send Emails](https://medium.com/@mahmudahsan/how-to-send-email-in-swiftui-5a9047e3442f)
 
 ### More on Swift / SwiftUI Reference
 - [Swift Documentation](https://sarunw.com/posts/swift-documentation/)
