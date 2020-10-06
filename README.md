@@ -93,6 +93,7 @@
 
 ### Other Articles
 - [Using Multiple Firebase Environments in iOS](https://medium.com/rocket-fuel/using-multiple-firebase-environments-in-ios-12b204cfa6c0)
+- [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 
 ### Design Resources
 - [Dark to Lighten Color](https://pinetools.com/lighten-color)
