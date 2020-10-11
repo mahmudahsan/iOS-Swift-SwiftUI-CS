@@ -84,6 +84,7 @@
 - [KUIPopOver](https://github.com/Kofktu/KUIPopOver)
 - [Custom Alert](https://github.com/krishnads/KCustomAlert)
 - [URLImage](https://github.com/dmytro-anokhin/url-image)
+- [Card Stack View](https://github.com/dadalar/SwiftUI-CardStackView)
 
 #### Image
 - [Gif Support: SDWebImageSwiftUI](https://sdwebimage.github.io/SDWebImageSwiftUI/)
