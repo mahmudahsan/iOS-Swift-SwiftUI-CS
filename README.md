@@ -38,8 +38,10 @@
 
 > Most of my iOS apps I developed using Objective-C, Swift in the native platform. You can see all my iOS apps mentioned in my website: [http://ithinkdiff.net](https://ithinkdiff.net)
 
-### My Swift / iOS Tutorials
+### Automation
+- [How to Use Fastlane to Deploy iOS App Fast](https://medium.com/level-up-programming/how-to-use-fastlane-to-deploy-ios-app-fast-43346b15a618)
 
+### My Swift / iOS Tutorials
 - [How to Use iOS Concurrency Using GCD And Operation](https://medium.com/@mahmudahsan/ios-concurrency-using-gcd-and-operations-using-swift-brush-up-5adad60be440)
 - [iOS Development Brush Up by Swift and Objective C Part](https://thinkdiff.net/mobile/ios-development-knowledge-brush-up-10-10-part-1/)
 - [iOS Development Brush Up: Swift Obj-C Part 2](https://thinkdiff.net/mobile/ios-development-knowledge-brush-up-10-10-part-2/)
@@ -48,10 +50,9 @@
 - [Swift Programming Language Property Observer with Caution](https://thinkdiff.net/ios/swift-programming-language-property-observer-caution/)
 - [iPhone X and other iOS device detection by Swift and Objective-C](https://thinkdiff.net/mobile/iphone-x-and-other-ios-device-detection-by-swift-and-objective-c/)
 - [Device Size in Runtime](https://thinkdiff.net/ios/swiftui-how-to-get-device-size/)
-- [How to Use Fastlane to Deploy iOS App Fast](https://medium.com/level-up-programming/how-to-use-fastlane-to-deploy-ios-app-fast-43346b15a618)
-- [SwiftUI Dark Mode — the Easiest Way](https://medium.com/level-up-programming/swiftui-dark-mode-the-easiest-way-81e48d055189)
 
 ### My SwiftUI Tutorials
+- [SwiftUI Dark Mode — the Easiest Way](https://medium.com/level-up-programming/swiftui-dark-mode-the-easiest-way-81e48d055189)
 - [How to Create a Button With Capsule Shape](https://thinkdiff.net/ios/swiftui-how-to-create-a-button-with-capsule-shape/)
 - [How to Programmatically Navigate in SwiftUI](https://medium.com/@mahmudahsan/how-to-programmatically-navigate-in-swiftui-387b44254bc6)
 - [How to Add Gradient on Text in SwiftUI](https://medium.com/@mahmudahsan/swiftui-how-to-add-gradient-on-text-23f2d14b0476)
