@@ -49,6 +49,7 @@
 - [iPhone X and other iOS device detection by Swift and Objective-C](https://thinkdiff.net/mobile/iphone-x-and-other-ios-device-detection-by-swift-and-objective-c/)
 - [Device Size in Runtime](https://thinkdiff.net/ios/swiftui-how-to-get-device-size/)
 - [How to Use Fastlane to Deploy iOS App Fast](https://medium.com/level-up-programming/how-to-use-fastlane-to-deploy-ios-app-fast-43346b15a618)
+- [SwiftUI Dark Mode — the Easiest Way](https://medium.com/level-up-programming/swiftui-dark-mode-the-easiest-way-81e48d055189)
 
 ### My SwiftUI Tutorials
 - [How to Create a Button With Capsule Shape](https://thinkdiff.net/ios/swiftui-how-to-create-a-button-with-capsule-shape/)
