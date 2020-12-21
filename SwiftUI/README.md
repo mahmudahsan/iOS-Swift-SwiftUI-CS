@@ -75,9 +75,17 @@ struct ContentView: View {
             MyView {
                 Text("Cool")
             }
+            
+            MyView {
+                Text("Other")
+                Circle()
+                    .fill(Color.green)
+                    .frame(width: 10, height: 10)
+            }
         }
     }
 }
 
 PlaygroundPage.current.setLiveView(ContentView())
+
 ```
