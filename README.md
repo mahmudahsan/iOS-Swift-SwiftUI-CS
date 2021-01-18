@@ -63,6 +63,7 @@
 - [How to Send Emails](https://medium.com/@mahmudahsan/how-to-send-email-in-swiftui-5a9047e3442f)
 - [How to Integrate SwiftUI With UIKit](https://medium.com/level-up-programming/how-to-integrate-swiftui-with-uikit-c71d96ed2a47)
 - [SwiftUI: How to Assign @State Property in an Initializer](https://medium.com/level-up-programming/swiftui-how-to-assign-state-variable-in-an-initializer-e40c33d4a3)
+- [SwiftUI — How to Know State Value Changes](https://medium.com/level-up-programming/swiftui-how-to-know-state-value-changes-310637dfcce5)
 
 ### More on Swift / SwiftUI Reference
 - [Swift Documentation](https://sarunw.com/posts/swift-documentation/)
