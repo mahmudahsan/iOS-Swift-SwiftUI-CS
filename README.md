@@ -40,6 +40,7 @@
 
 ### Automation
 - [How to Use Fastlane to Deploy iOS App Fast](https://medium.com/level-up-programming/how-to-use-fastlane-to-deploy-ios-app-fast-43346b15a618)
+- [iOS — How to Take Advantages of Multiple Schemes in XCode](https://levelupprogramming.net/ios-how-to-take-advantages-of-multiple-schemes-in-xcode-146db851e628)
 
 ### My Swift / iOS Tutorials
 - [How to Use iOS Concurrency Using GCD And Operation](https://medium.com/@mahmudahsan/ios-concurrency-using-gcd-and-operations-using-swift-brush-up-5adad60be440)
