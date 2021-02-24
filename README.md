@@ -32,9 +32,6 @@
 4. [GAdsManager](https://github.com/mahmudahsan/GAdsManager)
 5. [SwiftUI - Action Sheet Card](https://github.com/mahmudahsan/SwiftUI-Action-Sheet-Card)
 
-### SwiftUI Tutorial
-- [How to pop to root view](https://thinkdiff.net/ios/swiftui-how-to-pop-to-root-view/)
-
 ### My iOS Apps 
 
 > Most of my iOS apps I developed using Objective-C, Swift in the native platform. You can see all my iOS apps mentioned in my website: [http://ithinkdiff.net](https://ithinkdiff.net)
