@@ -90,6 +90,8 @@
 - [Custom Alert](https://github.com/krishnads/KCustomAlert)
 - [URLImage](https://github.com/dmytro-anokhin/url-image)
 - [Card Stack View](https://github.com/dadalar/SwiftUI-CardStackView)
+- [AlertToast](https://github.com/elai950/AlertToast)
+- [About Kit](https://github.com/AdamFootDev/AboutKit)
 
 #### Image
 - [Gif Support: SDWebImageSwiftUI](https://sdwebimage.github.io/SDWebImageSwiftUI/)
