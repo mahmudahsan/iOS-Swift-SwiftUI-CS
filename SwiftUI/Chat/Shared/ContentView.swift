@@ -6,10 +6,12 @@
 //
 
 import SwiftUI
+import Combine
 
 struct ContentView: View {
     @State var messageList = [MessageModel]()
     @State var authorMessage: String = ""
+    @Namespace var bottomID
     
     var header: some View {
         HStack {
@@ -21,12 +23,24 @@ struct ContentView: View {
     }
     
     var chatView: some View {
-        List(messageList.reversed()) { message in
-            MessageCardView(message: message)
-                .flip()
+        ScrollViewReader { scrollView in
+            ScrollView(.vertical) {
+                LazyVStack {
+                    ForEach(messageList) { message in
+                        MessageCardView(message: message)
+                            .id(message.id)
+                    }
+                    Text("").id(bottomID)
+                }
+            }
+            .onReceive(Just(messageList), perform: { _ in
+                if messageList.count > 0 {
+                    scrollView.scrollTo(bottomID)
+                }
+            })
+            .padding()
+            .background(Color.gray.opacity(0.2))
         }
-        .listStyle(SidebarListStyle())
-        .flip()
     }
     
     func addMessageToMessageList() {

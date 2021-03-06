@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct MessageModel: Identifiable {
+struct MessageModel: Hashable, Identifiable {
     var id = UUID()
     var message: String
     var time: Date = Date()

@@ -19,8 +19,6 @@
 		51D534A225F3196A00DB122E /* MessageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D534A025F3196A00DB122E /* MessageModel.swift */; };
 		51D534AD25F31AC000DB122E /* MessageCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D534AC25F31AC000DB122E /* MessageCardView.swift */; };
 		51D534AE25F31AC000DB122E /* MessageCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D534AC25F31AC000DB122E /* MessageCardView.swift */; };
-		51D534BC25F3333800DB122E /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D534BB25F3333800DB122E /* Extensions.swift */; };
-		51D534BD25F3333800DB122E /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D534BB25F3333800DB122E /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,7 +55,6 @@
 		51D5348725F317D100DB122E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		51D534A025F3196A00DB122E /* MessageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageModel.swift; sourceTree = "<group>"; };
 		51D534AC25F31AC000DB122E /* MessageCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageCardView.swift; sourceTree = "<group>"; };
-		51D534BB25F3333800DB122E /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,7 +109,6 @@
 				51D5346025F317C600DB122E /* ContentView.swift */,
 				51D534AC25F31AC000DB122E /* MessageCardView.swift */,
 				51D5346125F317D100DB122E /* Assets.xcassets */,
-				51D534BB25F3333800DB122E /* Extensions.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -328,7 +324,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51D534BC25F3333800DB122E /* Extensions.swift in Sources */,
 				51D5348A25F317D100DB122E /* ContentView.swift in Sources */,
 				51D534A125F3196A00DB122E /* MessageModel.swift in Sources */,
 				51D534AD25F31AC000DB122E /* MessageCardView.swift in Sources */,
@@ -340,7 +335,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51D534BD25F3333800DB122E /* Extensions.swift in Sources */,
 				51D5348B25F317D100DB122E /* ContentView.swift in Sources */,
 				51D534A225F3196A00DB122E /* MessageModel.swift in Sources */,
 				51D534AE25F31AC000DB122E /* MessageCardView.swift in Sources */,
