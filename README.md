@@ -1,20 +1,6 @@
 <p align="center">
     <img src="cover.png" alt="Swift, SwiftUI, iOS" />
 </p>
-<p align="center">
-    <a href="http://thinkdiff.net/">
-        <img src="https://img.shields.io/badge/blog-thinkdiff.net-brightgreen.svg" alt="thinkdiff.net" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg">
-        <img src="https://img.shields.io/badge/my-youtube channel-red.svg" alt="Youtube" />
-    </a>
-    <a href="https://ithinkdiff.net/">
-        <img src="https://img.shields.io/badge/my-apps-yellow.svg" alt="iThinkdiff.net" />
-    </a>
-    <a href="https://twitter.com/mahmudahsan">
-        <img src="https://img.shields.io/badge/contact%40-mahmudahsan-blue.svg" alt="Twitter: @mahmudahsan" />
-    </a>
-</p>
 
 # iOS | Swift | SwiftUI
 
