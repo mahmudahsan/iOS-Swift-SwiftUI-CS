@@ -1,20 +1,6 @@
 <p align="center">
     <img src="cover.png" alt="Swift, SwiftUI, iOS" />
 </p>
-<p align="center">
-    <a href="http://thinkdiff.net/">
-        <img src="https://img.shields.io/badge/blog-thinkdiff.net-brightgreen.svg" alt="thinkdiff.net" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg">
-        <img src="https://img.shields.io/badge/my-youtube channel-red.svg" alt="Youtube" />
-    </a>
-    <a href="https://ithinkdiff.net/">
-        <img src="https://img.shields.io/badge/my-apps-yellow.svg" alt="iThinkdiff.net" />
-    </a>
-    <a href="https://twitter.com/mahmudahsan">
-        <img src="https://img.shields.io/badge/contact%40-mahmudahsan-blue.svg" alt="Twitter: @mahmudahsan" />
-    </a>
-</p>
 
 # iOS | Swift | SwiftUI
 
@@ -63,6 +49,7 @@
 - [How to Integrate SwiftUI With UIKit](https://medium.com/level-up-programming/how-to-integrate-swiftui-with-uikit-c71d96ed2a47)
 - [SwiftUI: How to Assign @State Property in an Initializer](https://medium.com/level-up-programming/swiftui-how-to-assign-state-variable-in-an-initializer-e40c33d4a3)
 - [SwiftUI — How to Know State Value Changes](https://medium.com/level-up-programming/swiftui-how-to-know-state-value-changes-310637dfcce5)
+- [SwiftUI — How to Create a Chat Screen that Scrolls Automatically](https://levelupprogramming.net/swiftui-how-to-create-a-chat-screen-and-scroll-automatically-d82b4984d888)
 
 ### More on Swift / SwiftUI Reference
 - [Swift Documentation](https://sarunw.com/posts/swift-documentation/)
