@@ -35,6 +35,7 @@
 - [Swift Programming Language Property Observer with Caution](https://thinkdiff.net/ios/swift-programming-language-property-observer-caution/)
 - [iPhone X and other iOS device detection by Swift and Objective-C](https://thinkdiff.net/mobile/iphone-x-and-other-ios-device-detection-by-swift-and-objective-c/)
 - [Device Size in Runtime](https://thinkdiff.net/ios/swiftui-how-to-get-device-size/)
+- [Swift — What Is Delegate & How to Use It](https://levelupprogramming.net/swift-what-is-delegate-how-to-use-it-a11caf96dba3)
 
 ### My SwiftUI Tutorials
 - [SwiftUI Dark Mode — the Easiest Way](https://medium.com/level-up-programming/swiftui-dark-mode-the-easiest-way-81e48d055189)
