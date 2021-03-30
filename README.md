@@ -23,8 +23,8 @@
 > Most of my iOS apps I developed using Objective-C, Swift in the native platform. You can see all my iOS apps mentioned in my website: [http://ithinkdiff.net](https://ithinkdiff.net)
 
 ### Automation
-- [How to Use Fastlane to Deploy iOS App Fast](https://medium.com/level-up-programming/how-to-use-fastlane-to-deploy-ios-app-fast-43346b15a618)
-- [iOS — How to Take Advantages of Multiple Schemes in XCode](https://levelupprogramming.net/ios-how-to-take-advantages-of-multiple-schemes-in-xcode-146db851e628)
+- [How to Use Fastlane to Deploy iOS App Fast](https://thinkdiff.net/how-to-use-fastlane-to-deploy-ios-app-fast-43346b15a618)
+- [iOS — How to Take Advantages of Multiple Schemes in XCode](https://thinkdiff.net/ios-how-to-take-advantages-of-multiple-schemes-in-xcode-146db851e628)
 
 ### My Swift / iOS Tutorials
 - [How to Use iOS Concurrency Using GCD And Operation](https://medium.com/@mahmudahsan/ios-concurrency-using-gcd-and-operations-using-swift-brush-up-5adad60be440)
@@ -35,10 +35,10 @@
 - [Swift Programming Language Property Observer with Caution](https://thinkdiff.net/ios/swift-programming-language-property-observer-caution/)
 - [iPhone X and other iOS device detection by Swift and Objective-C](https://thinkdiff.net/mobile/iphone-x-and-other-ios-device-detection-by-swift-and-objective-c/)
 - [Device Size in Runtime](https://thinkdiff.net/ios/swiftui-how-to-get-device-size/)
-- [Swift — What Is Delegate & How to Use It](https://levelupprogramming.net/swift-what-is-delegate-how-to-use-it-a11caf96dba3)
+- [Swift — What Is Delegate & How to Use It](https://thinkdiff.net/swift-what-is-delegate-how-to-use-it-a11caf96dba3)
 
 ### My SwiftUI Tutorials
-- [SwiftUI Dark Mode — the Easiest Way](https://medium.com/level-up-programming/swiftui-dark-mode-the-easiest-way-81e48d055189)
+- [SwiftUI Dark Mode — the Easiest Way](https://thinkdiff.net/swiftui-dark-mode-the-easiest-way-81e48d055189)
 - [How to Create a Button With Capsule Shape](https://thinkdiff.net/ios/swiftui-how-to-create-a-button-with-capsule-shape/)
 - [How to Programmatically Navigate in SwiftUI](https://medium.com/@mahmudahsan/how-to-programmatically-navigate-in-swiftui-387b44254bc6)
 - [How to Add Gradient on Text in SwiftUI](https://medium.com/@mahmudahsan/swiftui-how-to-add-gradient-on-text-23f2d14b0476)
@@ -47,10 +47,10 @@
 - [Manual Progress Bar](https://thinkdiff.net/ios/swiftui-how-to-create-a-manual-progress-bar/)
 - [SwiftUI: How to Create Gradients](https://medium.com/@mahmudahsan/how-to-create-gradients-e5cdf60d05d9)
 - [How to Send Emails](https://medium.com/@mahmudahsan/how-to-send-email-in-swiftui-5a9047e3442f)
-- [How to Integrate SwiftUI With UIKit](https://medium.com/level-up-programming/how-to-integrate-swiftui-with-uikit-c71d96ed2a47)
-- [SwiftUI: How to Assign @State Property in an Initializer](https://medium.com/level-up-programming/swiftui-how-to-assign-state-variable-in-an-initializer-e40c33d4a3)
-- [SwiftUI — How to Know State Value Changes](https://medium.com/level-up-programming/swiftui-how-to-know-state-value-changes-310637dfcce5)
-- [SwiftUI — How to Create a Chat Screen that Scrolls Automatically](https://levelupprogramming.net/swiftui-how-to-create-a-chat-screen-and-scroll-automatically-d82b4984d888)
+- [How to Integrate SwiftUI With UIKit](https://thinkdiff.net/how-to-integrate-swiftui-with-uikit-c71d96ed2a47)
+- [SwiftUI: How to Assign @State Property in an Initializer](https://thinkdiff.net/swiftui-how-to-assign-state-variable-in-an-initializer-e40c33d4a3)
+- [SwiftUI — How to Know State Value Changes](https://thinkdiff.net/swiftui-how-to-know-state-value-changes-310637dfcce5)
+- [SwiftUI — How to Create a Chat Screen that Scrolls Automatically](https://thinkdiff.net/swiftui-how-to-create-a-chat-screen-and-scroll-automatically-d82b4984d888)
 
 ### More on Swift / SwiftUI Reference
 - [Swift Documentation](https://sarunw.com/posts/swift-documentation/)
