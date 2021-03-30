@@ -28,12 +28,6 @@
 
 ### My Swift / iOS Tutorials
 - [How to Use iOS Concurrency Using GCD And Operation](https://medium.com/@mahmudahsan/ios-concurrency-using-gcd-and-operations-using-swift-brush-up-5adad60be440)
-- [iOS Development Brush Up by Swift and Objective C Part](https://thinkdiff.net/mobile/ios-development-knowledge-brush-up-10-10-part-1/)
-- [iOS Development Brush Up: Swift Obj-C Part 2](https://thinkdiff.net/mobile/ios-development-knowledge-brush-up-10-10-part-2/)
-- [How to Use Google Admob in iOS Apps using GadsManager](https://thinkdiff.net/ios/how-to-google-admob-in-ios-using-gadsmanager/)
-- [Swift Error Handling Best Practices](https://thinkdiff.net/ios/swift-error-handling-best-practices-example-tutorial/)
-- [Swift Programming Language Property Observer with Caution](https://thinkdiff.net/ios/swift-programming-language-property-observer-caution/)
-- [iPhone X and other iOS device detection by Swift and Objective-C](https://thinkdiff.net/mobile/iphone-x-and-other-ios-device-detection-by-swift-and-objective-c/)
 - [Device Size in Runtime](https://thinkdiff.net/ios/swiftui-how-to-get-device-size/)
 - [Swift — What Is Delegate & How to Use It](https://thinkdiff.net/swift-what-is-delegate-how-to-use-it-a11caf96dba3)
 
@@ -44,7 +38,6 @@
 - [How to Add Gradient on Text in SwiftUI](https://medium.com/@mahmudahsan/swiftui-how-to-add-gradient-on-text-23f2d14b0476)
 - [How to Create Checkbox in SwiftUI](https://medium.com/@mahmudahsan/how-to-create-checkbox-in-swiftui-ad08e285ab3d)
 - [How to Create Radio Button and Group in SwiftUI](https://medium.com/@mahmudahsan/how-to-create-radio-button-and-group-in-swiftui-46b34e0ba69a)
-- [Manual Progress Bar](https://thinkdiff.net/ios/swiftui-how-to-create-a-manual-progress-bar/)
 - [SwiftUI: How to Create Gradients](https://medium.com/@mahmudahsan/how-to-create-gradients-e5cdf60d05d9)
 - [How to Send Emails](https://medium.com/@mahmudahsan/how-to-send-email-in-swiftui-5a9047e3442f)
 - [How to Integrate SwiftUI With UIKit](https://thinkdiff.net/how-to-integrate-swiftui-with-uikit-c71d96ed2a47)
