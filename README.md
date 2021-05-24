@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="cover.png" alt="Swift, SwiftUI, iOS" />
-</p>
-
 # iOS | Swift | SwiftUI
 
 > All my open source iOS projects and swift notes are published in this repo.
