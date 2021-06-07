@@ -41,6 +41,7 @@
 - [SwiftUI: How to Assign @State Property in an Initializer](https://thinkdiff.net/swiftui-how-to-assign-state-variable-in-an-initializer-e40c33d4a3)
 - [SwiftUI — How to Know State Value Changes](https://thinkdiff.net/swiftui-how-to-know-state-value-changes-310637dfcce5)
 - [SwiftUI — How to Create a Chat Screen that Scrolls Automatically](https://thinkdiff.net/swiftui-how-to-create-a-chat-screen-and-scroll-automatically-d82b4984d888)
+- [SwiftUI — How to Use Context Menu for Better UX](https://thinkdiff.net/swiftui-how-to-use-context-menu-for-better-ux-7ab31e1c07fb)
 
 ### More on Swift / SwiftUI Reference
 - [Swift Documentation](https://sarunw.com/posts/swift-documentation/)
