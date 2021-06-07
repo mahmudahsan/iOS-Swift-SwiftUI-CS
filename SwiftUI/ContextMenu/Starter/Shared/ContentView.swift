@@ -56,7 +56,7 @@ struct Card: View {
         VStack {
             HStack { Spacer() }
             
-            Image("house")
+            Image(imageName ?? "")
                 .resizable()
                 .aspectRatio(contentMode: .fill)
                 .frame(height: 200)
@@ -74,7 +74,7 @@ struct ContentView: View {
             }
             
             Card(.Text, text: "Life is Beautiful!")
-            Card(.Image, imageName: "sky")
+            Card(.Image, imageName: "house")
             Card(.Text, text: "I am Happy!")
             
             Spacer()
