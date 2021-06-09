@@ -73,7 +73,7 @@
 - [About Kit](https://github.com/AdamFootDev/AboutKit)
 
 #### Image
-- [Gif Support: SDWebImageSwiftUI](https://sdwebimage.github.io/SDWebImageSwiftUI/)
+- [Animated Gift SwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)
 
 #### Notification
 - [NotificationBanner](https://github.com/Daltron/NotificationBanner)
