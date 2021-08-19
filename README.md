@@ -6,6 +6,9 @@
 
 1. [My Swift Notes](swift.md)
 
+### Computer Science
+1. [Insertion Sort](https://thinkdiff.net/insertion-sort-swift-db14b9a79016)
+
 ### My Open Source iOS Libraries
 
 1. [Licenses](https://github.com/mahmudahsan/Licenses)
