@@ -8,6 +8,7 @@
 
 ### Computer Science
 1. [Insertion Sort](https://thinkdiff.net/insertion-sort-swift-db14b9a79016)
+2. [Selection Sort](https://thinkdiff.net/selection-sort-swift-5bf688dcf70f)
 
 ### My Open Source iOS Libraries
 
