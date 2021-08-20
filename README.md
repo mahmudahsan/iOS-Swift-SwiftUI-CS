@@ -1,4 +1,4 @@
-# iOS | Swift | SwiftUI
+# iOS | Swift | SwiftUI | Computer Science
 
 > All my open source iOS projects and swift notes are published in this repo.
 > Since 2020, I am a big fan of SwiftUI. And if I create a new project
