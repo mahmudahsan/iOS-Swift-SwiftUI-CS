@@ -10,6 +10,7 @@
 1. Insertion Sort - [Tutorial](https://thinkdiff.net/insertion-sort-swift-db14b9a79016) | [Video](https://www.youtube.com/watch?v=ym-buOEqJDw)
 2. Selection Sort - [Tutorial](https://thinkdiff.net/selection-sort-swift-5bf688dcf70f) | [Video](https://www.youtube.com/watch?v=EMlOv2BlXGY)
 3. Merge Sort - [Tutorial](https://thinkdiff.net/merge-sort-swift-e0e77f520f89) | [Video](https://youtu.be/w7ysMFpwp2Q)
+4. QuickSort - [Tutorial](https://thinkdiff.net/quicksort-swift-af9df1ae4c0d) 
 
 ### My Open Source iOS Libraries
 
