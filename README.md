@@ -77,6 +77,7 @@
 - [Card Stack View](https://github.com/dadalar/SwiftUI-CardStackView)
 - [AlertToast](https://github.com/elai950/AlertToast)
 - [About Kit](https://github.com/AdamFootDev/AboutKit)
+- [FMPhotoPicker](https://github.com/congnd/FMPhotoPicker) | Select multiple photos or videos
 
 #### Image
 - [Animated Gift SwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)
