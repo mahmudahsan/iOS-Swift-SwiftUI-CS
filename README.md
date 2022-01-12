@@ -11,6 +11,8 @@
 2. Selection Sort - [Tutorial](https://thinkdiff.net/selection-sort-swift-5bf688dcf70f) 
 3. Merge Sort - [Tutorial](https://thinkdiff.net/merge-sort-swift-e0e77f520f89)
 4. QuickSort - [Tutorial](https://thinkdiff.net/quicksort-swift-af9df1ae4c0d) 
+5. Linked List - [Tutorial](https://thinkdiff.net/linked-list-swift-481ea48be80c)
+6. Tree - [Tutorial](https://thinkdiff.net/tree-swift-be05fca0845c)
 
 ### My Open Source iOS Libraries
 
