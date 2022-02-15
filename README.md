@@ -55,6 +55,9 @@
 - [Swift Documentation](https://sarunw.com/posts/swift-documentation/)
 
 ### 3rd Party Libraries
+#### Functional
+- [Resolver](https://github.com/hmlongco/Resolver) Dependency injection
+
 #### Grid
 - [QGrid - Similar Like Collection View](https://github.com/Q-Mobile/QGrid)
 - [SwiftUI Grid Layout](https://github.com/spacenation/swiftui-grid)
